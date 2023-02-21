@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunnerisforher&label=Profile%20views&color=0e75b6&style=flat" alt="gunnerisforher" /> </p>
 
 <p align="left"> <a href="https://twitter.com/eaje98" target="blank"><img src="https://img.shields.io/twitter/follow/eaje98?logo=twitter&style=for-the-badge" alt="eaje98" /></a> </p>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
 
 - 🌱 I’m currently learning **C**
 
