@@ -26,7 +26,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunnerisforher&show_icons=true&locale=en&layout=compact" alt="gunnerisforher" /></p>
 
-
-https://user-images.githubusercontent.com/101591284/221418929-ca33fe02-80d9-4c0e-8214-98efa5a65a8f.mp4
-
-
