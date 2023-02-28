@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/eaje98" target="blank"><img src="https://img.shields.io/twitter/follow/eaje98?logo=twitter&style=for-the-badge" alt="eaje98" /></a> </p>
 <img align="right" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
 
-- 🌱 I’m currently learning **C, TypeScript**
+- 🌱 I’m currently learning **C**
 
 - 💬 Ask me about **Python, Django**
 
